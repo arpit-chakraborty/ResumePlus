@@ -1,4 +1,4 @@
-# Shadcn-UI Template Usage Instructions
+# Resume Plus
 
 ## technology stack
 
@@ -45,17 +45,17 @@ The `@/` path alias points to the `src/` directory
 **Install Dependencies**
 
 ```shell
-pnpm i
+npm i
 ```
 
 **Start Preview**
 
 ```shell
-pnpm run dev
+npm run dev
 ```
 
 **To build**
 
 ```shell
-pnpm run build
+npm run build
 ```
